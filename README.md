@@ -15,9 +15,9 @@ This is a simple guessing game written in Python using Jupyter Notebook.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
-3. Open the Jupyter Notebook file: `jupyter notebook GuessingGame.ipynb`
+1. Clone the repository: `git clone https://github.com/shreya300033/GuessingGame.git`
+3. Navigate to the project directory: `cd your-repo`
+4. Open the Jupyter Notebook file: `jupyter notebook GuessingGame.ipynb`
 
 ## Contributing
 
